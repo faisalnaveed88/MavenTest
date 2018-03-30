@@ -18,4 +18,8 @@ public class App
     {
         return "faisal";
     }
+    public String getlastname()
+    {
+        return "naveed";
+    }
 }
